@@ -31,5 +31,5 @@ func dodaj(a int, b int) int {
 }
 
 func bmi (w float64, h float64) float64 { 
-	return w / h * 2
+	return w / h * 2 * 2
 }
