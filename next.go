@@ -14,5 +14,5 @@ func main() {
 		Height: 21.1,
 		Age: 21,
 	}
-	fmt.Println(asia)
+	fmt.Println(asia.Name, asia.Age)
 }
